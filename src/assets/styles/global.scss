@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  margin: 0px;
+  padding: 0;
+  font-family: Klavika;
+}
+
+@font-face {
+  font-family: Exo2;
+  src: url(/assets/fonts/Exo2/Exo2-Regular.woff2);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Klavika;
+  src: url(/assets/fonts/Klavika/Klavika-Regular.woff2);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Klavika-Bold;
+  src: url(/assets/fonts/Klavika/Klavika-Bold.woff2);
+  font-weight: 700;
+  font-style: normal;
+}

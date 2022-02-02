@@ -1,0 +1,1 @@
+export const navItems = ["kvalitāte", "projekti", "sadarbība", "blogs", "par mums", "kontakti"]
