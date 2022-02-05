@@ -4,6 +4,12 @@
 
 ![Project GIF](src/assets/images/Project.gif)
 
+<br/>
+
+---
+
+<br/>
+
 ## Project on a mobile:
 
 ![Project-mobile GIF](src/assets/images/Project-mobile.gif)
