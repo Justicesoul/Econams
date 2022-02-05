@@ -1,3 +1,13 @@
+# EKOnams
+
+## Project on a desktop:
+
+![Project GIF](src/assets/images/Project.gif)
+
+## Project on a mobile:
+
+![Project-mobile GIF](src/assets/images/Project-mobile.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
